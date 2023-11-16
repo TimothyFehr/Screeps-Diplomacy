@@ -8,4 +8,4 @@ declare global {
     }
 }
 
-export {diplomacy} from './array/pluck'
+export {Diplomacy} from './diplomacy'
